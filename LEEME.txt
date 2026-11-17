@@ -1,0 +1,17 @@
+J.A.R.V.I.S. SYSTEM 2.1 — paquete PWA
+
+CAMBIOS
+- Se añadieron iconos PNG de 192x192 y 512x512.
+- Se completó el manifiesto con id, scope, display standalone y display_override.
+- Se actualizó la caché para incluir los iconos y renovar la versión.
+
+PUBLICACIÓN
+1. Sube el contenido de esta carpeta a la raíz del repositorio GitHub Pages, conservando la carpeta icons.
+2. Espera a que GitHub Pages termine el despliegue.
+3. En Chrome abre la dirección del sitio y recarga.
+4. Si ya habías creado un acceso directo, elimínalo de la pantalla de inicio.
+5. En Chrome > ⋮, comprueba si ahora aparece «Instalar aplicación».
+6. Si aparece, instálala. Si sigue ofreciendo solo acceso directo, revisa que el sitio use HTTPS, que manifest.webmanifest e iconos carguen sin error y que sw.js esté registrado. Chrome puede seguir sin ofrecer instalación por criterios propios del navegador.
+
+NOTA
+El paquete no añade control remoto de Android ni conexión directa con un modelo de IA. La interfaz conserva sus funciones informativas originales.
