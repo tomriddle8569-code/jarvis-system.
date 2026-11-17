@@ -1,0 +1,10 @@
+{
+  "name": "J.A.R.V.I.S. Personal Assistant",
+  "short_name": "J.A.R.V.I.S.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#020811",
+  "theme_color": "#030b16",
+  "description": "Panel holográfico personal J.A.R.V.I.S. versión 2.0"
+}
